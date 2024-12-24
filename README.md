@@ -14,7 +14,7 @@ Patika.dev'in düzenlediği **Patika.dev 2025 Stajı**, yazılımcılara projele
 - **Motoko** ile yeni bir deneyim kazandım.
 
 ## 📍 Bana Ulaşın
-- **LinkedIn**: [Nisasu Bozkurt]([https://linkedin.com/in/nisasu-bozkurt](https://www.linkedin.com/in/nisasubozkurt/))
+- **LinkedIn**: [Nisasu Bozkurt](https://www.linkedin.com/in/nisasubozkurt/)
 - **GitHub**: [github.com/NisasuBozkurt](https://github.com/nisasubozkurt)
 
 Projeye göz atmak ve katkıda bulunmak için GitHub reposunu ziyaret etmeyi unutmayın! ⭐
